@@ -20,7 +20,7 @@ export default function Home() {
           transition={{ duration: 1 }}
           className="text-5xl md:text-7xl font-bold tracking-wide"
         >
-          AS <span className="text-purple-400">Classes</span>
+          AS <span className="text-purple-400">Classes</span> ✨
         </motion.h1>
 
         <motion.p
